@@ -1,0 +1,19 @@
+body
+{
+    background-color: rgb(80, 80, 245);
+}
+button
+{
+    width: 200px;
+    border-radius: 20px;
+    background-color: white;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+canvas{
+    margin-top: 30px;
+}
